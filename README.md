@@ -1,1 +1,1 @@
-Memenuhi Tugas Pengolahan Citra Digital
+Untuk Memenuhi Tugas Pengolahan Citra Digital
