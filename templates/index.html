@@ -17,7 +17,7 @@
             <div class="upload-box">
                 <form class="upload-form" method="POST" enctype="multipart/form-data" action="{{ url_for('upload_file') }}">
                     <label for="image" class="custom-file-upload">Select Photo</label>
-                    <input type="file" id="image" name="image" accept="image/*" style="display: none" />
+                    <input type="file" id="image" name="image" accept="image/png, image/jpeg, image/jpg" style="display: none" />
                     <input type="submit" id="uploadButton" value="Upload" style="display: none" class="upload_button" />
                 </form>
 
